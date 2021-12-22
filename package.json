@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/cmarshall13/shop-shop-redux/issues"
   },
-  "homepage": "https://github.com/cmarshall13/shop-shop-redux#readme",
+  "homepage": ".",
   "devDependencies": {
     "concurrently": "^6.5.1"
   }
